@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # mypackage
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/Sylvanben/mypackage/workflows/R-CMD-check/badge.svg)](https://github.com/Sylvanben/mypackage/actions)
 <!-- badges: end -->
 
 The goal of mypackage is to ...
@@ -37,6 +38,7 @@ This is a basic example which shows you how to solve a common problem:
 library(mypackage)
 ## basic example code
 ```
+
 
 What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
 

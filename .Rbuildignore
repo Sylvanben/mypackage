@@ -4,3 +4,4 @@
 ^mypackage.*\.tar\.gz$
 ^mypackage.*\.tgz$
 ^README\.Rmd$
+^\.github$

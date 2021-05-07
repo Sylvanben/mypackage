@@ -4,6 +4,8 @@
 # mypackage
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/Sylvanben/mypackage/workflows/R-CMD-check/badge.svg)](https://github.com/Sylvanben/mypackage/actions)
 <!-- badges: end -->
 
 The goal of mypackage is to …
@@ -37,8 +39,15 @@ howiya("tony")
 #>     \
 #>       \
 #>         \
-#>       ﾊ _ ﾊ
-#>       ಠ X ಠ
+#>         /\_/\         _
+#>        /``   \       / )
+#>        |n n   |__   ( (
+#>       =(Y =.‛`   `\  \ \
+#>       {`"`        \  ) )
+#>       {       /    |/ /
+#>        \\   ,(     / /
+#>         ) ) /-‛\  ,_.‛
+#>   jgs  (,(,/ ((,,/
 #> 
 ```
 
