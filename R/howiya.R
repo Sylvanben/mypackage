@@ -21,4 +21,4 @@ howiya <- function(name = NULL) {
   cowsay::say(what=greeting, by=animal_names[i])
 
   }
-howiya("micky")
+
